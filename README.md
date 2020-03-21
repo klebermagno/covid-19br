@@ -4,7 +4,7 @@
 
 [neherlab/covid19_scenarios](https://github.com/neherlab/covid19_scenarios)
 
-# A paper with similar resuts
+### A paper with similar resuts
 https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-COVID19-NPI-modelling-16-03-2020.pdf
 
 
@@ -16,7 +16,12 @@ https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowsh
 
 ![Table](/img/table.png)
 
-![Dash](/img/Dash.png)
+![Dash](/img/dash.png)
+
+
+### Data source
+
+[Brazil AuteCare](http://tabnet.datasus.gov.br/cgi/deftohtm.exe?cnes/cnv/leiintbr.def)
 
 > Tool that models hospital demand during COVID-19 outbreak
 
