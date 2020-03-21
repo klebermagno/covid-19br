@@ -1,11 +1,16 @@
 # COVID-19 Scenarios
 
-# This project is a fork from 
+### This project is a fork from 
 
 [neherlab/covid19_scenarios](https://github.com/neherlab/covid19_scenarios)
 
 # A paper with similar resuts
 https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-COVID19-NPI-modelling-16-03-2020.pdf
+
+
+# Graph
+
+![Graph](/img/graph.png)
 
 > Tool that models hospital demand during COVID-19 outbreak
 
