@@ -10,7 +10,13 @@ https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowsh
 
 # Graph
 
+## Brazil Simulation
+
 ![Graph](/img/graph.png)
+
+![Table](/img/table.png)
+
+![Dash](/img/Dash.png)
 
 > Tool that models hospital demand during COVID-19 outbreak
 
