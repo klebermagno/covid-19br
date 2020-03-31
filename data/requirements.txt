@@ -30,7 +30,7 @@ beautifulsoup4==4.7.1
 bibtexparser==1.1.0
 bitarray==0.8.3
 bkcharts==0.2
-bleach==3.1.0
+bleach==3.1.4
 blessings==1.7
 bokeh==1.0.4
 boto==2.49.0
