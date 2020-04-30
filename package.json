@@ -61,7 +61,7 @@
     "history": "4.10.1",
     "immer": "5.3.6",
     "immutable": "3.8.2",
-    "jquery": "3.4.1",
+    "jquery": "3.5.0",
     "katex": "0.11.1",
     "lodash": "4.17.15",
     "mathjs": "6.6.1",
