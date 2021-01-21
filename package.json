@@ -59,7 +59,7 @@
     "file-saver": "2.0.2",
     "formik": "2.1.4",
     "history": "4.10.1",
-    "immer": "5.3.6",
+    "immer": "8.0.1",
     "immutable": "3.8.2",
     "jquery": "3.4.1",
     "katex": "0.11.1",
