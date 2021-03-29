@@ -278,7 +278,7 @@ pyelftools==0.26
 pyFFTW==0.11.1
 pyflakes==1.6.0
 pyglet==1.4.4
-Pygments==2.3.1
+Pygments==2.7.4
 pygpu==0.7.6
 PyJWT==1.7.1
 pylama==7.7.1
