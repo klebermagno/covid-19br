@@ -20,7 +20,7 @@ async-generator==1.10
 atari-py==0.2.6
 atomicwrites==1.3.0
 attrs==19.1.0
-Babel==2.6.0
+Babel==2.9.1
 backcall==0.1.0
 backports.csv==1.0.7
 backports.os==0.1.1
