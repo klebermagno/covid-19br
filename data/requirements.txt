@@ -245,7 +245,7 @@ pexpect==4.6.0
 pickleshare==0.7.5
 Pillow==6.2.0
 Pint==0.9
-pipenv==2018.11.26
+pipenv==2022.1.8
 pipreqs==0.4.9
 pkginfo==1.5.0.1
 pluggy==0.9.0
