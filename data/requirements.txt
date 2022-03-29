@@ -87,7 +87,7 @@ filelock==3.0.10
 flake8==3.7.8
 flashtext==2.7
 Flask==1.0.2
-Flask-AppBuilder==2.1.11
+Flask-AppBuilder==3.4.5
 Flask-Babel==0.12.2
 Flask-JWT-Extended==3.21.0
 Flask-Login==0.4.1
