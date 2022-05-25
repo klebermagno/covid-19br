@@ -280,7 +280,7 @@ pyflakes==1.6.0
 pyglet==1.4.4
 Pygments==2.3.1
 pygpu==0.7.6
-PyJWT==1.7.1
+PyJWT==2.4.0
 pylama==7.7.1
 pylatexenc==1.5
 pylint==2.3.1
