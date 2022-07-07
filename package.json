@@ -65,7 +65,7 @@
     "katex": "0.11.1",
     "lodash": "4.17.15",
     "mathjs": "6.6.1",
-    "moment": "2.24.0",
+    "moment": "2.29.4",
     "p-min-delay": "3.1.0",
     "papaparse": "5.1.1",
     "plotly.js": "1.52.3",
